@@ -31,3 +31,5 @@ ReactAppWorkshopPOS is a web-based Point of Sale (POS) system designed for small
 ```bash
 git clone https://github.com/thekaroe-thailand/Course_NodeAndReact_Workshop_POS.git
 
+2. Navigate into the app folder: cd Course_NodeAndReact_Workshop_POS/app
+
