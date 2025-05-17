@@ -62,7 +62,7 @@ Then visit the app at:
 ![image](https://github.com/user-attachments/assets/c3fac186-3f08-4290-a4ef-7f72d7fa67ff)
 ![image](https://github.com/user-attachments/assets/6156477a-6515-468c-bd50-b2c4551917b1)
 ![image](https://github.com/user-attachments/assets/246e5cb5-d0a1-4cf9-950d-a56a0b2ac429)
-![image](https://github.com/user-attachments/assets/a73fc9f4-9b5c-45ad-835e-baaf5d397a28)
+[image](https://github.com/user-attachments/assets/a73fc9f4-9b5c-45ad-835e-baaf5d397a28)
 
 
 
