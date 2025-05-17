@@ -1,3 +1,42 @@
+# ReactAppWorkshopPOS
+
+ReactAppWorkshopPOS is a web-based Point of Sale (POS) system designed for small businesses and learning purposes. This application is part of a Node.js & React.js workshop project, offering a simple but functional POS experience.
+
+---
+
+## 🛠️ Technologies Used
+
+- **React.js**: JavaScript library for building user interfaces.
+- **Node.js**: JavaScript runtime used for backend APIs and server logic.
+- **Express.js**: Lightweight web framework for handling API requests.
+- **MongoDB (optional)**: For storing product and transaction data.
+- **JavaScript (ES6+)**: Core language for both frontend and backend logic.
+- **CSS / Basic styling**: For layout and UI components.
+
+---
+
+## ✨ Features
+
+- ✅ Product management (Add / Edit / Delete)
+- 🛒 Cart and order handling with price calculations
+- 📋 View transaction history
+- 📦 Frontend and backend separation
+- 💡 Beginner-friendly project structure for educational use
+
+---
+
+## 🚀 How to Run Locally
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/thekaroe-thailand/Course_NodeAndReact_Workshop_POS.git
+
+2. Navigate into the app folder: cd Course_NodeAndReact_Workshop_POS/app
+3.Install dependencies:npm install
+4.Start the development server:npm start
+Then visit the app at:
+👉 http://localhost:3000
+
 ![image](https://github.com/user-attachments/assets/0011830d-ac79-4d7d-bd5d-37bc730dff18)![image](https://github.com/user-attachments/assets/3324765c-05e9-4ea7-bac7-127a1d58c4c4)
 ![image](https://github.com/user-attachments/assets/fdd6433f-9493-4aee-bd3a-ae6cbe7c4617)
 ![image](https://github.com/user-attachments/assets/aba0cf58-2fab-40e5-a66d-143a05042519)
