@@ -30,3 +30,20 @@ ReactAppWorkshopPOS is a web-based Point of Sale (POS) system designed for small
 ### 1. Clone the repository:
 ```bash
 git clone https://github.com/thekaroe-thailand/Course_NodeAndReact_Workshop_POS.git
+2. Navigate into the app folder:
+bash
+คัดลอก
+แก้ไข
+cd Course_NodeAndReact_Workshop_POS/app
+3. Install dependencies:
+bash
+คัดลอก
+แก้ไข
+npm install
+4. Start the development server:
+bash
+คัดลอก
+แก้ไข
+npm start
+Then visit the app at:
+👉 http://localhost:3000
