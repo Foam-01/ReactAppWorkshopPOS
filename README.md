@@ -52,6 +52,7 @@ git clone https://github.com/thekaroe-thailand/Course_NodeAndReact_Workshop_POS.
 <img width="1526" height="957" alt="image" src="https://github.com/user-attachments/assets/e0cac040-3172-4f9e-8ea9-bb24ae642748" />
 <img width="1526" height="961" alt="image" src="https://github.com/user-attachments/assets/8fa97b18-c165-45e7-be62-e69075704f5d" />
 <img width="1523" height="953" alt="image" src="https://github.com/user-attachments/assets/714adb63-2e16-41b9-9437-47c89279e5ef" />
+<img width="988" height="630" alt="image" src="https://github.com/user-attachments/assets/4677eeec-c6e1-4def-8f02-64fe06f80502" />
 <img width="1524" height="959" alt="image" src="https://github.com/user-attachments/assets/dcff4a55-19ae-4ee7-b829-87b730964cdf" />
 <img width="1522" height="955" alt="image" src="https://github.com/user-attachments/assets/522633b9-5dfd-4eb5-8dc2-7fa91e5a9522" />
 <img width="1520" height="956" alt="image" src="https://github.com/user-attachments/assets/7201c781-d773-46f8-8924-d9e6dc445c1b" />
