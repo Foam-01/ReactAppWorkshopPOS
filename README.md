@@ -1,4 +1,4 @@
-<img width="1514" height="955" alt="image" src="https://github.com/user-attachments/assets/b54ac9d7-0fdb-468a-bb1a-ee43b90f8848" /># ReactAppWorkshopPOS
+# ReactAppWorkshopPOS
 
 ReactAppWorkshopPOS is a web-based Point of Sale (POS) system designed for small businesses and learning purposes. This application is part of a Node.js & React.js workshop project, offering a simple but functional POS experience.
 
@@ -58,6 +58,7 @@ git clone https://github.com/thekaroe-thailand/Course_NodeAndReact_Workshop_POS.
 <img width="1527" height="948" alt="image" src="https://github.com/user-attachments/assets/17b23432-4daf-462d-8052-58511637a858" />
 <img width="1532" height="958" alt="image" src="https://github.com/user-attachments/assets/af7e5f3b-c25e-4c0b-8259-1e234729cc8c" />
 <img width="1514" height="955" alt="image" src="https://github.com/user-attachments/assets/73ae9ac1-5c86-4d80-b076-2471af82ad02" />
+<img width="1514" height="955" alt="image" src="https://github.com/user-attachments/assets/b54ac9d7-0fdb-468a-bb1a-ee43b90f8848" />
 
 
 
