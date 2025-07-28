@@ -1,4 +1,4 @@
-# ReactAppWorkshopPOS
+<img width="1514" height="955" alt="image" src="https://github.com/user-attachments/assets/b54ac9d7-0fdb-468a-bb1a-ee43b90f8848" /># ReactAppWorkshopPOS
 
 ReactAppWorkshopPOS is a web-based Point of Sale (POS) system designed for small businesses and learning purposes. This application is part of a Node.js & React.js workshop project, offering a simple but functional POS experience.
 
@@ -51,6 +51,20 @@ git clone https://github.com/thekaroe-thailand/Course_NodeAndReact_Workshop_POS.
 <img width="1523" height="965" alt="image" src="https://github.com/user-attachments/assets/7f339f11-b268-49ed-a58d-2badae24f45b" />
 <img width="1526" height="957" alt="image" src="https://github.com/user-attachments/assets/e0cac040-3172-4f9e-8ea9-bb24ae642748" />
 <img width="1526" height="961" alt="image" src="https://github.com/user-attachments/assets/8fa97b18-c165-45e7-be62-e69075704f5d" />
+<img width="1523" height="953" alt="image" src="https://github.com/user-attachments/assets/714adb63-2e16-41b9-9437-47c89279e5ef" />
+<img width="1524" height="959" alt="image" src="https://github.com/user-attachments/assets/dcff4a55-19ae-4ee7-b829-87b730964cdf" />
+<img width="1522" height="955" alt="image" src="https://github.com/user-attachments/assets/522633b9-5dfd-4eb5-8dc2-7fa91e5a9522" />
+<img width="1520" height="956" alt="image" src="https://github.com/user-attachments/assets/7201c781-d773-46f8-8924-d9e6dc445c1b" />
+<img width="1527" height="948" alt="image" src="https://github.com/user-attachments/assets/17b23432-4daf-462d-8052-58511637a858" />
+<img width="1532" height="958" alt="image" src="https://github.com/user-attachments/assets/af7e5f3b-c25e-4c0b-8259-1e234729cc8c" />
+<img width="1514" height="955" alt="image" src="https://github.com/user-attachments/assets/73ae9ac1-5c86-4d80-b076-2471af82ad02" />
+
+
+
+
+
+
+
 
 
 
